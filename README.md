@@ -14,4 +14,4 @@
 
 ## What is Groad?
 
-Groad is the plugin loader for bedrock dedicated server.
+Groad is the plugin loader for bedrock dedicated server. You can create plugin with C++ and small API.
