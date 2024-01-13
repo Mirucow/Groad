@@ -9,4 +9,9 @@
 ***
 
 > [!WARNING]
-> This project is in develo.
+> This project is in development.
+
+
+## What is Groad?
+
+Groad is the plugin loader for bedrock dedicated server.
